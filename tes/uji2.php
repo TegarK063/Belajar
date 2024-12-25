@@ -1,5 +1,5 @@
 <?php
-
+// mari belajar
 // Class induk untuk Uang Tabungan
 class UangTabungan
 {
